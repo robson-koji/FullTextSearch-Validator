@@ -8,4 +8,6 @@ The module accepts three arguments:
 - **`docs`**: dict = Documents to verify
 - **`index`**: dict = Inverted index of the words in the documents
 
-This is a customized version of the script that can be found here. It heavily relies on the PyParsing module.
+This is a customized version of the script that can be found [here](https://github.com/pyparsing/pyparsing/blob/master/examples/searchparser.py). It heavily relies on the PyParsing module.
+
+https://pyparsing-docs.readthedocs.io/en/latest/pyparsing.html
